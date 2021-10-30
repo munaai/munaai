@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Muna Ibrahim and I am currently enrolled in *Black Codher* Bootcamp
+
 <!--
 **munaai/munaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
