@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Muna Ibrahim and I am currently enrolled in #Black Codher# Bootcamp
+- 🔭 My name is *Muna Ibrahim* and I am currently enrolled in **Black Codher Bootcamp** 
+- 🌱 I have learnt how to navigate and use GIT and GitHub.
+- ✔️ I have done a python course in the past using Udemy
+- ⚡ I enjoy reading 📖 and swimming 🏊‍♀️
+- 
 
 <!--
 **munaai/munaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
