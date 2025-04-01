@@ -14,6 +14,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+### For more skills icons
+https://github.com/tandpfun/skill-icons
 -->
 
 
