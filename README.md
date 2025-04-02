@@ -24,7 +24,7 @@ https://github.com/tandpfun/skill-icons
 
 ---
 ###
-![Muna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munaai&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munaai&layout=compact&theme=tokyonight)
 
 
