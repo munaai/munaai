@@ -7,7 +7,7 @@
 - ⚡ My Most recent project is:
 -->
 - 🔭 I’m currently working on a project (Amazon's Threat Composer Tool Hosted on ECS with Terraform)
-- 📚 I am currently studying for AWS Certified Cloud Practitioner (CLF-C02)
+- 📚 I am also studying for AWS Certified Cloud Practitioner (CLF-C02)
 
 <!--
 
