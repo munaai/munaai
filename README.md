@@ -6,11 +6,11 @@
 <!--
 - ⚡ My Most recent project is:
 -->
-- 🌱 I’m currently learning about AWS
+- 🔭 I’m currently working on a project (Amazon's Threat Composer Tool Hosted on ECS with Terraform)
 - 📚 I am currently studying for AWS Certified Cloud Practitioner (CLF-C02)
 
 <!--
-- 🔭 I’m currently working on ...
+
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
