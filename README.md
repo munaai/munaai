@@ -3,13 +3,12 @@
 <h2 align="center">Hi 👋! I'm Muna! </h2>
 <h3 align="center">Software Engineer | DevOps </h3>
 
-<!--
 - ⚡ My Most recent project is:
--->
-- 🔭 I’m currently working on a project (Amazon's Threat Composer Tool Hosted on ECS with Terraform)
-- 📚 I am also studying for AWS Certified Cloud Practitioner (CLF-C02)
+- Collab notes ECS
 
 <!--
+- 🔭 I’m currently working on a project (Amazon's Threat Composer Tool Hosted on ECS with Terraform)
+- 📚 I am also studying for AWS Certified Cloud Practitioner (CLF-C02)
 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
