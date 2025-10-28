@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋! I'm Muna! </h2>
 <h3 align="center">Software Engineer | DevOps </h3>
 
-- ⚡ My Most recent project is:
+⚡ My Most recent project is:
 - Collab notes ECS
 
 <!--
