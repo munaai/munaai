@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer | DevOps </h3>
 
 ⚡ My Most recent project is:
-- Collab notes ECS
+- ecs-microservices-platform 
 
 <!--
 - 🔭 I’m currently working on a project (Amazon's Threat Composer Tool Hosted on ECS with Terraform)
